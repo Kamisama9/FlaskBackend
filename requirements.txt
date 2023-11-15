@@ -48,3 +48,4 @@ urllib3
 Werkzeug
 wrapt
 gunicorn
+flask_cors
